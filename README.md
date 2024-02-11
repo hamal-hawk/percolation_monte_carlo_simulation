@@ -1,0 +1,2 @@
+This project implements a percolation system simulation based on the Monte Carlo method. The simulation models a composite system comprised of randomly distributed insulating and metallic materials to determine the threshold for the system to become an electrical conductor. It also applies to porous landscapes, simulating conditions under which water can drain through to the bottom or oil can gush through to the surface.
+
